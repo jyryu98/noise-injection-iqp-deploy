@@ -1,0 +1,7 @@
+dataset,node_count,graph_type,density,rank,bipartite_pct,avg_edge_prob,target_p,tvd,num_samples,file_path
+8N_Bipartite,8,Bipartite,Dense,N/A,49.21875,0.31277901785714285,0.31102900930487143,0.035717698763481284,512,results/simulation_results_iqp/8N_Bipartite/run_20260110_121737/Dense/simulated_samples_20260128.npy
+8N_Bipartite,8,Bipartite,Medium,8,63.28125,0.22984095982142858,0.28874538745387424,0.1428239684048878,512,results/simulation_results_iqp/8N_Bipartite/20260116_1608/Medium/rank_8/simulated_samples_20260118.npy
+8N_Bipartite,8,Bipartite,Sparse,N/A,75.1953125,0.22942243303571427,0.22556390977443602,0.01891820246959769,512,results/simulation_results_iqp/8N_Bipartite/run_20260110_121737/Sparse/simulated_samples_20260128.npy
+8N_ER,8,ER,Dense,1,0.0,0.7589983258928571,0.7617857142857141,0.007478376687272391,512,results/simulation_results_iqp/8N_ER/20260116_1609/Dense/rank_1/simulated_samples_20260128.npy
+8N_ER,8,ER,Medium,0,3.90625,0.43701171875,0.4419642857142859,0.013761508872162579,512,results/simulation_results_iqp/8N_ER/20260116_1609/Medium/rank_0/simulated_samples_20260128.npy
+8N_ER,8,ER,Sparse,1,56.640625,0.22126116071428573,0.22071428571428572,0.008507960515225758,512,results/simulation_results_iqp/8N_ER/20260116_1609/Sparse/rank_1/simulated_samples_20260128.npy

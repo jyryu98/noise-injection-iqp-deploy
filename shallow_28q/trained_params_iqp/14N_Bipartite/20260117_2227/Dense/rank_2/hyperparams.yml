@@ -1,0 +1,8 @@
+final_loss: 2.6068366652286562e-06
+hyperparameters:
+  initialization_multiplier: 0.719433019813523
+  learning_rate: 0.0001619165399854686
+  num_layers: 1
+  sigma_multiplier: 0.01183369712289839
+nodes: 14
+timestamp: '2026-01-22T10:23:32.233407'
